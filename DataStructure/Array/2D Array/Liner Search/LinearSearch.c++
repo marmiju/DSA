@@ -12,10 +12,8 @@ bool linearSearch(int mtx[][2], int rows, int cols, int key)
                 return true;
             }
         }
-        
     }
     return false;
-    
 }
 
 int main()
