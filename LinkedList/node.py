@@ -4,4 +4,4 @@ class Node :
         self.value = value   # store data in node
         self.next = None   # pointer to the next node
     
-        
+         
