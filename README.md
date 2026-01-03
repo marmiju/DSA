@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/marmiju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/marmiju/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/marmiju/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/marmiju/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/marmiju/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/marmiju/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sliding Window
