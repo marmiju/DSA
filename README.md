@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1390-four-divisors](https://github.com/marmiju/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/marmiju/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marmiju/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1013-fibonacci-number](https://github.com/marmiju/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/marmiju/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/marmiju/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/marmiju/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/marmiju/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/marmiju/LeetCode/tree/master/1448-maximum-69-number) |
