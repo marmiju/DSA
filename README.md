@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/marmiju/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1975-maximum-matrix-sum](https://github.com/marmiju/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/marmiju/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1448-maximum-69-number](https://github.com/marmiju/LeetCode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/marmiju/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/marmiju/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0463-island-perimeter](https://github.com/marmiju/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1791-richest-customer-wealth](https://github.com/marmiju/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1975-maximum-matrix-sum](https://github.com/marmiju/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
