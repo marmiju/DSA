@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/marmiju/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/marmiju/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/marmiju/DSA/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/marmiju/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/marmiju/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0994-rotting-oranges](https://github.com/marmiju/DSA/tree/master/0994-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/marmiju/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/marmiju/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0101-symmetric-tree](https://github.com/marmiju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/marmiju/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/marmiju/LeetCode/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/marmiju/DSA/tree/master/0994-rotting-oranges) |
 ## Counting Sort
 |  |
 | ------- |
