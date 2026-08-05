@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marmiju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/marmiju/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/marmiju/LeetCode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/marmiju/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/marmiju/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/marmiju/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/marmiju/LeetCode/tree/master/0054-spiral-matrix) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/marmiju/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/marmiju/DSA/tree/master/0046-permutations) |
 ## Union-Find
 |  |
 | ------- |
