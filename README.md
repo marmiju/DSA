@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0792-binary-search](https://github.com/marmiju/LeetCode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/marmiju/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/marmiju/LeetCode/tree/master/0837-most-common-word) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/marmiju/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/marmiju/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0611-valid-triangle-number](https://github.com/marmiju/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/marmiju/LeetCode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/marmiju/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -703,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/marmiju/DSA/tree/master/0200-number-of-islands) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/marmiju/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
